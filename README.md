@@ -29,4 +29,4 @@ This project analyzes Netflix movies and TV shows dataset to understand trends, 
 Netflix content has grown rapidly in recent years with a focus on mature audiences.
 
 ## Author
-Your Name
+Abhinav Sareen
